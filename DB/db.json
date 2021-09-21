@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "pizza",
+      "count": 0,
+      "price": 100,
+      "isInCart": false
+    },
+    {
+      "id": 3,
+      "name": "fries",
+      "count": 0,
+      "price": 88,
+      "isInCart": false
+    },
+    {
+      "name": "Burger",
+      "price": "45",
+      "count": 0,
+      "isInCart": false,
+      "id": 4
+    },
+    {
+      "name": "sugar",
+      "price": "444",
+      "id": 6,
+      "count": 0,
+      "isInCart": false
+    }
+  ]
+}
